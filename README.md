@@ -6,7 +6,7 @@ https://www.linkedin.com/in/misjane/
 -->
 
 :heavy_check_mark: JavaScript at Hexlet https://ru.hexlet.io/courses/js-basics </br>
-:heavy_check_mark: JavaScript <a href="https://ru.hexlet.io/courses/js-basics" target="_blank">at Hexlet</a></br>
+:heavy_check_mark: JavaScript <a href="https://ru.hexlet.io/courses/js-basics" target="_blank" rel="noopener noreferrer">at Hexlet</a></br>
 :heavy_check_mark: JavaScript/Front-end at RS School https://training.epam.com/Training/Details/3345 </br>
 :heavy_check_mark: Java QA Engineer at Innopolis University   https://stc.innopolis.university/ </br>
 :heavy_check_mark: QA Python course by Vadim Ksendzov   https://ksendzov.com/ </br>
