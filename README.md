@@ -5,12 +5,12 @@
 https://www.linkedin.com/in/misjane/
 -->
 
-:heavy_check_mark: JavaScript Basics <a target="_blank" href="https://ru.hexlet.io/courses/js-basics">at Hexlet</a></br>
-:heavy_check_mark: JavaScript/Front-end Course <a target="_blank" href="https://rollingscopes.com/" >at RS School & EPAM training</a></br>
-:heavy_check_mark: Java QA Engineer at Innopolis University   https://stc.innopolis.university/ </br>
-:heavy_check_mark: QA Python course by Vadim Ksendzov   https://ksendzov.com/ </br>
-:heavy_check_mark: Author's course of Testing by Vadim Ksendzov   https://ksendzov.com/ </br>
-:heavy_check_mark: QA Engineer by Yandex.Practicum   https://practicum.yandex.ru/profile/qa-engineer/ </br>
+:heavy_check_mark: JavaScript basics <a target="_blank" href="https://ru.hexlet.io/courses/js-basics">at Hexlet</a></br>
+:heavy_check_mark: JavaScript/Front-end Course <a target="_blank" href="https://rollingscopes.com" >at RS School & EPAM training</a></br>
+:heavy_check_mark: Java QA Engineer <a target="_blank" herf="https://stc.innopolis.university">at Innopolis University</a></br>
+:heavy_check_mark: QA Python course <a target="_blank" href="https://ksendzov.com">by Vadim Ksendzov</a></br>
+:heavy_check_mark: Author's course of Testing <a target="_blank href="https://ksendzov.com">by Vadim Ksendzov</a></br>
+:heavy_check_mark: QA Engineer <a target="_blank" href="https://practicum.yandex.ru/profile/qa-engineer">by Yandex.Practicum</a></br>
 :heavy_check_mark: Information systems in economics (bachelor) at USFU </br></br>
 
 ![This is an image](/icons/fiddler.png)![This is an image](/icons/postman.png)![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/PyCharm.png)![This is an image](/icons/WebStorm.png)![This is an image](/icons/DataGrip.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Selenium.png)![This is an image](/icons/appium.png)![This is an image](/icons/androidstudio.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
