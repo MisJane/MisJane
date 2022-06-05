@@ -5,6 +5,8 @@
 https://www.linkedin.com/in/misjane/
 -->
 
+:heavy_check_mark: JavaScript at Haxlet </br>
+:heavy_check_mark: JavaScript/Front-end at RS School </br>
 :heavy_check_mark: Java QA Engineer at Innopolis University   https://stc.innopolis.university/ </br>
 :heavy_check_mark: QA Python course by Vadim Ksendzov   https://ksendzov.com/ </br>
 :heavy_check_mark: Author's course of Testing by Vadim Ksendzov   https://ksendzov.com/ </br>
