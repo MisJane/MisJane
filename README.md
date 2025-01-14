@@ -8,7 +8,7 @@ https://www.linkedin.com/in/misjane/
 :heavy_check_mark: JavaScript basics <a target="_blank" href="https://ru.hexlet.io/courses/js-basics">at Hexlet</a></br>
 :heavy_check_mark: JavaScript/Front-end Course <a target="_blank" href="https://rollingscopes.com" >at RS School & EPAM training</a></br>
 :heavy_check_mark: Java QA Engineer <a target="_blank" href="https://stc.innopolis.university">at Innopolis University</a></br>
-:heavy_check_mark: Program manager in IT<a target="_blank" href="https://winbd.ru">at WINbd</a></br>
+:heavy_check_mark: Program manager in IT <a target="_blank" href="https://winbd.ru">at WINbd</a></br>
 :heavy_check_mark: QA Python course <a target="_blank" href="https://ksendzov.com">by Vadim Ksendzov</a></br>
 :heavy_check_mark: Author's course of Testing <a target="_blank" href="https://ksendzov.com">by Vadim Ksendzov</a></br>
 :heavy_check_mark: Generation Python for beginners and advanced <a target="_blank" href="https://stepik.org">at Stepik courses</a></br>
