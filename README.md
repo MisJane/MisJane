@@ -4,7 +4,7 @@
 <!--
 https://www.linkedin.com/in/misjane/
 -->
-
+:heavy_check_mark: Java dev <a target="_blank" href="https://ru.hexlet.io/programs/java">at Hexlet</a></br>
 :heavy_check_mark: JavaScript basics <a target="_blank" href="https://ru.hexlet.io/courses/js-basics">at Hexlet</a></br>
 :heavy_check_mark: JavaScript/Front-end Course <a target="_blank" href="https://rollingscopes.com" >at RS School & EPAM training</a></br>
 :heavy_check_mark: Java QA Engineer <a target="_blank" href="https://stc.innopolis.university">at Innopolis University</a></br>
