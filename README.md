@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :octocat: I'm Jane, AQA Engineer
+### :octocat: I'm Jane, AQA Engineer and Team lead
 
 <!--
 https://www.linkedin.com/in/misjane/
