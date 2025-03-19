@@ -22,7 +22,9 @@ https://www.linkedin.com/in/misjane/
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisJane&show_icons=true&theme=radical) </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisJane&layout=compact&theme=radical)](https://github.com/MisJane/github-readme-stats)
 
-📫 You can reach me: <a href="mailto:qa01234@ya.ru">e-mail</a> | <a href="https://www.linkedin.com/in/MisJane/" rel="nofollow">LinkedIn</a> | <a href="https://t.me/misjane" rel="nofollow">Telegram</a>                  Don't give up, write!
+📫 You can reach me: <a href="mailto:qa01234@ya.ru">e-mail</a> | <a href="https://www.linkedin.com/in/MisJane/" rel="nofollow">LinkedIn</a> | <a href="https://t.me/misjane" rel="nofollow">Telegram</a>
+
+Don't give up, build up!
 
 <!--
 **MisJane/MisJane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
